@@ -15,7 +15,7 @@ A ZSH plugin that provides command completion and convenience functions for work
 ### Using Oh My Zsh
 
 ```bash
-git clone https://github.com/obenchkroune/adonis-zsh-plugin.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/adonis
+git clone https://github.com/obenchkroune/adonisjs-zsh-plugin.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/adonis
 ```
 
 Then add `adonis` to your plugin list in `.zshrc`:
@@ -27,6 +27,6 @@ plugins=(... adonis)
 ### Manual Installation
 
 ```bash
-git clone https://github.com/obenchkroune/adonis-zsh-plugin.git
+git clone https://github.com/obenchkroune/adonisjs-zsh-plugin.git
 source /path/to/adonis-zsh-plugin/adonis.plugin.zsh
 ```
